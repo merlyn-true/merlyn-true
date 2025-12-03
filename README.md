@@ -40,6 +40,12 @@ Data analysis, visualization, modeling, dashboards, APIs, databases, and buildin
 ## 📫 How to reach me  
 **Email:** patrice.s.balthazar@gmail.com  
 
+## ⚡ Fun fact  
+I love astronomy, music, photography, and learning anything that deepens my understanding of the world.
+
+## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrice-balthazar/)
+
 ---
 
 ## 🛠️ Languages and Tools  
